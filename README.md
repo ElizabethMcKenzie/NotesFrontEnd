@@ -1,6 +1,7 @@
-# Lambda Notes Project
+This is not my code! 
 
-**Trello Board:** https://trello.com/b/8PLbcAOF
+
+# Lambda Notes Project
 
 ---
 
