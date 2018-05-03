@@ -1,4 +1,4 @@
-## This is not my code! 
+### This is not my code! :sparkles: :sparkles:
 (borrowed from another [Lambda Student](https://github.com/LambdaSchool/front-end-project-week/pull/20))
 ---
 
