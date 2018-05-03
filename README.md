@@ -1,5 +1,5 @@
 ### This is not my code! :sparkles: :sparkles:
-(borrowed from another [Lambda Student](https://github.com/LambdaSchool/front-end-project-week/pull/20))
+### (borrowed from another [Lambda Student](https://github.com/LambdaSchool/front-end-project-week/pull/20))
 ---
 
 # Lambda Notes Project
